@@ -1,0 +1,7 @@
+com\JonasApps\Entity\Qoute.class
+Api\ApplicationConfig.class
+com\JonasApps\Entity\Qoute_.class
+com\JonasApps\mapper\Test.class
+Api\QuoteApi.class
+com\JonasApps\mapper\QouteMapper.class
+Json\JSonConverter.class
